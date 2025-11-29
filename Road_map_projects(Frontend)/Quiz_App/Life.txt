@@ -1,0 +1,45 @@
+import time from Life;
+time.heal()
+
+DELETE FROM Friends WHERE attitude = 'toxic';
+
+while(alive){
+    eat();
+    sleep();
+    code();
+    makeMoney();
+
+    if( tired() ){
+        take_A_Break();
+    }
+}
+
+while( coding ){
+    drinkCoffee = true;
+    focus = 100;
+    headPhonesOn = true;
+}
+
+while( !success ){
+    if( youFail ){
+        dontGiveUp( keepimproving );
+        tryAgain();
+    }
+
+    if (improvement > fear) {
+        success = true;
+    }
+}
+
+SELECT memories FROM life WHERE type like 'joyful'
+
+while( noSuccess ){
+
+}
+
+SELECT * FROM Memories m
+INNER JOIN Positivity = p.id
+
+if ( today.self > yesterday.self ){
+    print("You are on the right path! \n Keep moving)
+}
